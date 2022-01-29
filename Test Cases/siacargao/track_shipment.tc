@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>track_shipment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d55b4aeb-659d-4a0a-8557-d3170d83bcfb</testCaseGuid>
+   <variable>
+      <defaultValue>'33884734'</defaultValue>
+      <description></description>
+      <id>2d9d59a7-3b0b-4169-9a6a-4cc1d1dd8032</id>
+      <masked>false</masked>
+      <name>number</name>
+   </variable>
+   <variable>
+      <defaultValue>'AWB : 618-33884734'</defaultValue>
+      <description></description>
+      <id>34eaafbb-ff49-407d-9b04-97ca7555162b</id>
+      <masked>false</masked>
+      <name>awb</name>
+   </variable>
+   <variable>
+      <defaultValue>'* Please check entries highlighted.'</defaultValue>
+      <description></description>
+      <id>89a69f47-5540-452b-8965-6b312a36ee79</id>
+      <masked>false</masked>
+      <name>check_entries</name>
+   </variable>
+   <variable>
+      <defaultValue>'01234567'</defaultValue>
+      <description></description>
+      <id>9b41e4c9-6b7a-4143-9977-14ce6afc26fb</id>
+      <masked>false</masked>
+      <name>invalid_number</name>
+   </variable>
+</TestCaseEntity>
